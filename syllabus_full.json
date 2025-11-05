@@ -1,0 +1,35 @@
+{
+  "Maths": {
+    "Main": {
+      "Algebra": [
+        "Quadratic equations",
+        "Progressions"
+      ],
+      "Calculus": [
+        "Limits",
+        "Derivatives"
+      ]
+    },
+    "Advanced": {}
+  },
+  "Physics": {
+    "Main": {
+      "Mechanics": [
+        "Kinematics",
+        "Dynamics"
+      ]
+    },
+    "Advanced": {}
+  },
+  "Chemistry": {
+    "Main": {
+      "Physical": [
+        "Stoichiometry"
+      ],
+      "Organic": [
+        "Hydrocarbons"
+      ]
+    },
+    "Advanced": {}
+  }
+}
